@@ -1,28 +1,38 @@
-<!-- ════════════════════════════════════════════════ -->
-<!--   HEADER  🎸 Bocchi the Backend                   -->
-<!-- ════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--   🎸 HEADER                                                   -->
+<!-- ════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC2D4,50:FF8FB1,100:F472B6&height=220&section=header&text=Gotchi&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E2%99%AA%20%20Bocchi%20the%20Backend%20%20%E2%99%AA&descSize=18&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1E0,25:FF8FB1,50:F472B6,75:C04BE0,100:6D5BD0&height=240&section=header&text=Gotchi&fontSize=78&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=%E2%99%AA%20Bocchi%20the%20Backend%20%E2%99%AA&descSize=20&descAlignY=56" />
 
+<!-- typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=F472B6&center=true&vCenter=true&width=480&height=45&lines=%24+git+commit+-m+'%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%A7%E3%82%84%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F';%E9%99%B0%E3%82%AD%E3%83%A3%E3%81%A7%E3%82%82+API+%E3%81%AF%E9%99%BD%E3%82%AD%E3%83%A3%E3%81%AB%E5%8B%95%E3%81%8F;%F0%9F%8E%B8+%E2%86%92+%F0%9F%92%BB+%E2%86%92+%F0%9F%93%A6+%E2%86%92+%F0%9F%8E%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=F472B6&background=FFFFFF00&center=true&vCenter=true&width=520&height=48&separator=%7C&lines=%E3%81%82%E3%81%A3%2C+git+commit+%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F...;%24+go+run+main.go;%E9%99%B0%E3%82%AD%E3%83%A3%E3%81%A7%E3%82%82+API+%E3%81%AF%E9%99%BD%E3%82%AD%E3%83%A3%E3%81%AB%E5%8B%95%E3%81%8F;%F0%9F%8E%B8+%E2%86%92+%F0%9F%92%BB+%E2%86%92+%F0%9F%93%A6+%E2%86%92+%F0%9F%8E%B8" alt="Typing SVG" />
 </a>
+
+<br/>
+
+<!-- 結束バンド 4色のソーシャル風バッジ（モチーフカラー） -->
+<img src="https://img.shields.io/badge/Guitar-FF6699?style=for-the-badge&logo=&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend-6D5BD0?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/陰キャ-FFC83D?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/段ボール完備-4A9DEC?style=for-the-badge&logoColor=white" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC2D4,100:F472B6&height=2" />
+<!-- rainbow divider (animated feel) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8FB1,25:F472B6,50:C04BE0,75:6D5BD0,100:4A9DEC&height=3" />
 
-<!-- ════════════════════════════════════════════════ -->
-<!--   ABOUT ME  (2-column)                            -->
-<!-- ════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--   🎸 ABOUT ME                                                 -->
+<!-- ════════════════════════════════════════════════════════════ -->
 
-## 🎸 &nbsp;About Me
+## <img src="https://media.giphy.com/media/iiE4XAQHFD3glA1Qh6/giphy.gif" width="32" /> &nbsp;About Me
 
 <table>
 <tr>
-<td width="56%" valign="top">
+<td width="58%" valign="top">
 
 ```go
 package main
@@ -37,85 +47,88 @@ func main() {
 	me := Gotchi{
 		Role:  "Server-side Engineer",
 		Stack: []string{"Go", "GraphQL"},
-		Mode:  "ぼっち (but the server never feels alone)",
+		Mode:  "ぼっち (the server keeps me company)",
 	}
 	_ = me // 緊張すると段ボールに戻ります
 }
 ```
 
 </td>
-<td width="44%" valign="top">
+<td width="42%" valign="top">
 
 <br/>
 
-> **🩷 Currently**
+> **🩷 Now Playing**
 >
 > 🎸 &nbsp;一人でギター（コード）練習中
 >
 > 📦 &nbsp;緊張すると段ボールに避難
 >
-> 🔌 &nbsp;サーバーの裏側でひっそりヒーロー
+> 🔌 &nbsp;サーバーの裏で、ひっそりヒーロー
 >
-> 🫧 &nbsp;発話量よりコミット量が多い
+> 🫧 &nbsp;発話量より commit 量が多い
 
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC2D4,100:F472B6&height=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8FB1,25:F472B6,50:C04BE0,75:6D5BD0,100:4A9DEC&height=3" />
 
-<!-- ════════════════════════════════════════════════ -->
-<!--   TECH STACK                                      -->
-<!-- ════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--   🎚️ TECH STACK                                              -->
+<!-- ════════════════════════════════════════════════════════════ -->
 
-## 🎚️ &nbsp;Tech Stack
+## 🎚️ &nbsp;Equipment（Tech Stack）
 
 <div align="center">
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=go,graphql&theme=light" height="80" />
+<img src="https://skillicons.dev/icons?i=go,graphql,git,docker,linux&theme=dark" />
 
 <br/><br/>
 
-<sub><i>※ ギターと同じで、機材（スタック）は本人比でそっと増える予定です</i></sub>
+<sub><i>※ メインは <b>Go</b> と <b>GraphQL</b>。ほかはステージ袖でスタンバイ中の機材です🎸</i></sub>
 
 <br/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC2D4,100:F472B6&height=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8FB1,25:F472B6,50:C04BE0,75:6D5BD0,100:4A9DEC&height=3" />
 
-<!-- ════════════════════════════════════════════════ -->
-<!--   GITHUB STATS                                    -->
-<!-- ════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--   📊 STATS                                                    -->
+<!-- ════════════════════════════════════════════════════════════ -->
 
-## 📊 &nbsp;Live Performance（GitHub Stats）
+## 🎤 &nbsp;Live Performance（GitHub Stats）
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kb-daikigoto&show_icons=true&hide_border=true&title_color=F472B6&icon_color=FF8FB1&text_color=8b949e&bg_color=00000000" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kb-daikigoto&layout=compact&hide_border=true&title_color=F472B6&text_color=8b949e&bg_color=00000000" />
-
-<br/><br/>
-
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=kb-daikigoto&hide_border=true&background=00000000&stroke=F472B6&ring=F472B6&fire=FF8FB1&currStreakLabel=F472B6&sideLabels=8b949e&dates=8b949e&currStreakNum=8b949e&sideNums=8b949e" />
+<!-- 不透明テーマで確実に表示。radical系のネオンピンク -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=kb-daikigoto&show_icons=true&hide_border=true&theme=radical&icon_color=F472B6&title_color=FF6699&text_color=c9d1d9&bg_color=20,1a1430,2a1535,1a1430" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kb-daikigoto&layout=compact&hide_border=true&theme=radical&title_color=FF6699&text_color=c9d1d9&bg_color=20,1a1430,2a1535,1a1430" />
 
 </div>
 
-<br/>
-
-<!-- Activity graph -->
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=kb-daikigoto&hide_border=true&bg_color=00000000&color=F472B6&line=F472B6&point=FF8FB1&area=true&area_color=FFC2D4" />
+<!-- streak -->
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=kb-daikigoto&hide_border=true&background=1a1430&stroke=F472B6&ring=FF6699&fire=FFC83D&currStreakLabel=F472B6&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
 
 </div>
 
 <br/>
 
-<!-- Contribution snake (pink) -->
+<!-- activity graph (multi-color line) -->
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=kb-daikigoto&hide_border=true&bg_color=1a1430&color=FF6699&line=F472B6&point=FFC83D&area=true&area_color=6D5BD0" />
+
+</div>
+
+<br/>
+
+<!-- snake -->
 <div align="center">
 
 <picture>
@@ -126,11 +139,11 @@ func main() {
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC2D4,100:F472B6&height=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8FB1,25:F472B6,50:C04BE0,75:6D5BD0,100:4A9DEC&height=3" />
 
-<!-- ════════════════════════════════════════════════ -->
-<!--   QUOTE                                           -->
-<!-- ════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--   💬 QUOTE                                                    -->
+<!-- ════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -141,16 +154,16 @@ func main() {
 
 </div>
 
-<!-- ════════════════════════════════════════════════ -->
-<!--   FOOTER                                          -->
-<!-- ════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--   👣 FOOTER                                                   -->
+<!-- ════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=kb-daikigoto&color=F472B6&style=flat-square&label=visitors" />
+<img src="https://komarev.com/ghpvc/?username=kb-daikigoto&color=F472B6&style=for-the-badge&label=AUDIENCE" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,50:FF8FB1,100:FFC2D4&height=140&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5BD0,25:C04BE0,50:F472B6,75:FF8FB1,100:FFD1E0&height=150&section=footer&text=Thanks%20for%20listening%20%E2%99%AA&fontColor=ffffff&fontSize=20&fontAlignY=72" />
