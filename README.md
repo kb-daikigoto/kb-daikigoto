@@ -1,92 +1,120 @@
+<!-- ╭──────────────────────────────────────────────╮ -->
+<!--           HEADER : Capsule Render               -->
+<!-- ╰──────────────────────────────────────────────╯ -->
+
 <div align="center">
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Gotchi+%F0%9F%91%8B;Server-side+engineer+%F0%9F%90%B9;go+run+main.go+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:79D4FF,100:00ADD8&height=200&section=header&text=Gotchi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Server-side%20Engineer&descSize=20&descAlignY=60" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00ADD8&center=true&vCenter=true&width=440&height=45&lines=go+run+main.go;Building+things+on+the+server+side;%E2%98%95+%E2%86%92+%F0%9F%92%BB+%E2%86%92+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 </div>
 
----
+<br/>
 
-## 🐹 About Me
+<!-- ╭──────────────────────────────────────────────╮ -->
+<!--           ABOUT ME                               -->
+<!-- ╰──────────────────────────────────────────────╯ -->
+
+## ⛩️ &nbsp;About Me
 
 ```go
 package main
 
-import "fmt"
-
-type Engineer struct {
-    Name     string
-    Role     string
-    Stack    []string
-    Status   string
-    Joke     string
+type Gotchi struct {
+	Role  string
+	Stack []string
+	Motto string
 }
 
 func main() {
-    me := Engineer{
-        Name:   "Gotchi",
-        Role:   "Server-side Engineer",
-        Stack:  []string{"Go", "GraphQL"},
-        Status: "Turning coffee into APIs ☕ → 🔌",
-        Joke:   "Why do Go devs wear glasses? Because they can't C#.",
-    }
-    fmt.Printf("Hi, I'm %s 👋\n", me.Name)
-    fmt.Println(me.Joke)
+	me := Gotchi{
+		Role:  "Server-side Engineer",
+		Stack: []string{"Go", "GraphQL"},
+		Motto: "if err != nil { keepGoing() }",
+	}
+	_ = me // 本人もたまにどこかに置き忘れる
 }
 ```
 
----
+<br/>
 
-## 🛠️ Tech Stack
+<!-- ╭──────────────────────────────────────────────╮ -->
+<!--           TECH STACK : skill-icons               -->
+<!-- ╰──────────────────────────────────────────────╯ -->
 
-<div align="center">
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
+## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kb-daikigoto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kb-daikigoto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img src="https://skillicons.dev/icons?i=go,graphql&theme=light" />
+
+<br/><br/>
+
+<sub><i>※ このリスト、本人比で毎月そっと伸びる予定です</i></sub>
 
 </div>
+
+<br/>
+
+<!-- ╭──────────────────────────────────────────────╮ -->
+<!--           GITHUB STATS                           -->
+<!-- ╰──────────────────────────────────────────────╯ -->
+
+## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kb-daikigoto&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kb-daikigoto&show_icons=true&hide_border=true&title_color=00ADD8&icon_color=00ADD8&text_color=8b949e&bg_color=00000000" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kb-daikigoto&layout=compact&hide_border=true&title_color=00ADD8&text_color=8b949e&bg_color=00000000" />
+
+<br/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=kb-daikigoto&hide_border=true&background=00000000&stroke=00ADD8&ring=00ADD8&fire=79D4FF&currStreakLabel=00ADD8&sideLabels=8b949e&dates=8b949e&currStreakNum=8b949e&sideNums=8b949e" />
 
 </div>
 
----
+<br/>
 
-## 💬 Today's Wisdom
+<!-- ╭──────────────────────────────────────────────╮ -->
+<!--           CONTRIBUTION SNAKE                     -->
+<!-- ╰──────────────────────────────────────────────╯ -->
 
-> *"There are only two hard things in Computer Science: cache invalidation and naming things."*
-> — Phil Karlton
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kb-daikigoto/kb-daikigoto/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kb-daikigoto/kb-daikigoto/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/kb-daikigoto/kb-daikigoto/output/github-snake.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ╭──────────────────────────────────────────────╮ -->
+<!--           QUOTE                                  -->
+<!-- ╰──────────────────────────────────────────────╯ -->
+
+> [!NOTE]
+> *“Clear is better than clever.”* — Rob Pike
 >
-> *(and also: getting GraphQL queries right on the first try)*
+> （でも `clever` なコードを書きたくなる夜もある）
 
----
+<br/>
 
-## 🐾 Fun Facts
-
-- 🏃 My code runs faster than my excuses
-- 🧩 I think in goroutines
-- 📡 GraphQL: because REST is so last decade
-- 🌙 Best bug fixes happen at 2am (don't ask why)
-
----
+<!-- ╭──────────────────────────────────────────────╮ -->
+<!--           FOOTER                                 -->
+<!-- ╰──────────────────────────────────────────────╯ -->
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=kb-daikigoto&color=6EE7B7&style=flat-square&label=Profile+Views)
+<img src="https://komarev.com/ghpvc/?username=kb-daikigoto&color=00ADD8&style=flat-square&label=visitors" />
 
-*Thanks for stopping by! If my code helped you, a ⭐ makes my day 🐹✨*
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:79D4FF&height=120&section=footer" />
 
 </div>
