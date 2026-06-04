@@ -60,7 +60,7 @@ func main() {
 
 > **🩷 Now Playing**
 >
-> 🎸 &nbsp;一人でギター（コード）練習中
+> 🎸 &nbsp;最近チーム開発始めました
 >
 > 📦 &nbsp;緊張すると段ボールに避難
 >
@@ -102,13 +102,13 @@ func main() {
 
 ## 🎤 &nbsp;Live Performance（GitHub Stats）
 
-<div align="center">
+<!-- <div align="center"> -->
 
 <!-- 不透明テーマで確実に表示。radical系のネオンピンク -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kb-daikigoto&show_icons=true&hide_border=true&theme=radical&icon_color=F472B6&title_color=FF6699&text_color=c9d1d9&bg_color=20,1a1430,2a1535,1a1430" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kb-daikigoto&layout=compact&hide_border=true&theme=radical&title_color=FF6699&text_color=c9d1d9&bg_color=20,1a1430,2a1535,1a1430" />
+<!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=kb-daikigoto&show_icons=true&hide_border=true&theme=radical&icon_color=F472B6&title_color=FF6699&text_color=c9d1d9&bg_color=20,1a1430,2a1535,1a1430" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kb-daikigoto&layout=compact&hide_border=true&theme=radical&title_color=FF6699&text_color=c9d1d9&bg_color=20,1a1430,2a1535,1a1430" /> -->
 
-</div>
+<!-- </div> -->
 
 <div align="center">
 
@@ -139,7 +139,7 @@ func main() {
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8FB1,25:F472B6,50:C04BE0,75:6D5BD0,100:4A9DEC&height=3" />
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8FB1,25:F472B6,50:C04BE0,75:6D5BD0,100:4A9DEC&height=3" /> -->
 
 <!-- ════════════════════════════════════════════════════════════ -->
 <!--   💬 QUOTE                                                    -->
