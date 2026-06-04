@@ -53,43 +53,6 @@ func main() {
 
 <br/><br/>
 
-<sub><i>※ このリスト、本人比で毎月そっと伸びる予定です</i></sub>
-
-</div>
-
-<br/>
-
-<!-- ╭──────────────────────────────────────────────╮ -->
-<!--           GITHUB STATS                           -->
-<!-- ╰──────────────────────────────────────────────╯ -->
-
-## 📊 &nbsp;GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kb-daikigoto&show_icons=true&hide_border=true&title_color=00ADD8&icon_color=00ADD8&text_color=8b949e&bg_color=00000000" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kb-daikigoto&layout=compact&hide_border=true&title_color=00ADD8&text_color=8b949e&bg_color=00000000" />
-
-<br/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=kb-daikigoto&hide_border=true&background=00000000&stroke=00ADD8&ring=00ADD8&fire=79D4FF&currStreakLabel=00ADD8&sideLabels=8b949e&dates=8b949e&currStreakNum=8b949e&sideNums=8b949e" />
-
-</div>
-
-<br/>
-
-<!-- ╭──────────────────────────────────────────────╮ -->
-<!--           CONTRIBUTION SNAKE                     -->
-<!-- ╰──────────────────────────────────────────────╯ -->
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kb-daikigoto/kb-daikigoto/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kb-daikigoto/kb-daikigoto/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/kb-daikigoto/kb-daikigoto/output/github-snake.svg" />
-</picture>
-
 </div>
 
 <br/>
