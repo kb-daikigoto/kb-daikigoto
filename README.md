@@ -129,7 +129,7 @@ func main() {
 <br/>
 
 <!-- snake -->
-<div align="center">
+<!-- <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kb-daikigoto/kb-daikigoto/output/github-snake-dark.svg" />
@@ -137,7 +137,7 @@ func main() {
   <img alt="contribution snake" src="https://raw.githubusercontent.com/kb-daikigoto/kb-daikigoto/output/github-snake.svg" />
 </picture>
 
-</div>
+</div> -->
 
 <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8FB1,25:F472B6,50:C04BE0,75:6D5BD0,100:4A9DEC&height=3" /> -->
 
