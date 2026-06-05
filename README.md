@@ -97,6 +97,42 @@ func main() {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8FB1,25:F472B6,50:C04BE0,75:6D5BD0,100:4A9DEC&height=3" />
 
 <!-- ════════════════════════════════════════════════════════════ -->
+<!--   📀 DISCOGRAPHY                                              -->
+<!-- ════════════════════════════════════════════════════════════ -->
+
+## 📀 &nbsp;Discography（Products）
+
+<div align="center">
+
+<br/>
+
+**🎸 1st Release —** <kbd>📚 学習書架 / My Learning Library</kbd>
+
+読んだ技術書・学んだトピックを、<b>一冊ずつ自己完結した HTML 記事</b>にして棚へ並べる、"育てる" 学習まとめサイト。<br/>
+記事の生成から公開まで <b>Claude Code のスキル</b>（<code>/create</code>・<code>/update</code>・<code>/publish</code>）で運用しています。<br/>
+テンプレートを使えば、誰でも自分だけの "書架" をすぐに立ち上げられます。
+
+<br/>
+
+<a href="https://kb-daikigoto.github.io/shoka/">
+  <img src="https://img.shields.io/badge/▶_Visit_Shoka-F472B6?style=for-the-badge&logo=githubpages&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://kb-daikigoto.github.io/shoka-template/">
+  <img src="https://img.shields.io/badge/📦_Use_Template-6D5BD0?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<sub><i>🌸 自己完結 HTML ・ GitHub Pages ・ Built &amp; deployed with Claude Code</i></sub>
+
+<br/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8FB1,25:F472B6,50:C04BE0,75:6D5BD0,100:4A9DEC&height=3" />
+
+<!-- ════════════════════════════════════════════════════════════ -->
 <!--   📊 STATS                                                    -->
 <!-- ════════════════════════════════════════════════════════════ -->
 
