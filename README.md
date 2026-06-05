@@ -118,7 +118,7 @@ func main() {
   <img src="https://img.shields.io/badge/▶_Visit_Shoka-F472B6?style=for-the-badge&logo=githubpages&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/kb-daikigoto/shoka-template/generate">
+<a href="https://github.com/kb-daikigoto/shoka-template">
   <img src="https://img.shields.io/badge/📦_Use_Template-6D5BD0?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
